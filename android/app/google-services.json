@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812256139398",
+    "project_id": "prueba-firebase-b8176",
+    "storage_bucket": "prueba-firebase-b8176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812256139398:android:68eb10277f37ab8a3c5907",
+        "android_client_info": {
+          "package_name": "com.aela.prueba_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NMU57azbXhtw8uukXuBg8xaV8RjqQtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
